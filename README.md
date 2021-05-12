@@ -1,7 +1,7 @@
 # 2019-11-_Explore-and-Summarize-Data
 
 ## Description:
-This project is part of Data Analyst Nanodegree with Udacity.
+This project is a part of Data Analyst Nanodegree with Udacity.
 
 We will use R and apply exploratory data analysis techniques to discover relationships among multiple variables, and
 create explanatory visualizations illuminating distributions, outliers, and anomalies in the red wine dataset which 
